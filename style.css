@@ -1,0 +1,52 @@
+body {
+    background-color: skyblue;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Geral {
+    background-color: cadetblue;
+}
+
+#ImagemInicio {
+    width: 19%;
+}
+
+#ImagemDesenvolvimento {
+    height: 300px;
+}
+
+#Minecraft{
+    background-color: lightgreen;
+}
+
+#Conteudo {
+    display: flex;
+    flex-direction: row;
+}
+
+#FallGuys {
+    background-color: slateblue;
+}
+
+#StumbleGuys {
+    background-color: orange;
+}
+
+#Roblox {
+    background-color: darkgray;
+}
+
+#RocketLeague {
+    background-color: navajowhite;
+}
